@@ -1,6 +1,6 @@
 ## NLP with Disaster Tweets
 
-![cover](https://github.com/user-attachments/assets/dc97846f-31b5-4789-9e53-7bd91c3e02dc)
+![cover](https://github.com/user-attachments/assets/59321593-7eae-4b60-9215-b5023db40bdc)
 
 ## Objective
 
